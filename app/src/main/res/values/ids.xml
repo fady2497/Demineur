@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="minesweeper_view" type="id" />
+    <item name="bomb_selection_button" type="id" />
+    <item name="mines_counter" type="id" />
+    <item name="selected_bombs_text" type="id" />
+</resources>
